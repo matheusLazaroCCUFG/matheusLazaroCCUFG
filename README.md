@@ -2,7 +2,7 @@
 <h1 align="center">Matheus Lázaro - Portfólio de Projetos</h1>
 
 <p align="center">
-  <a href="https://github.com/matheusLazaroCC-UFG"><img alt="GitHub followers" src="https://img.shields.io/github/followers/matheusLazaroCC-UFG?style=social"></a>
+  <a href="https://github.com/matheusLazaroCCUFG"><img alt="GitHub followers" src="https://img.shields.io/github/followers/matheusLazaroCCUFG?style=social"></a>
   <a target="_blank" href="https://www.linkedin.com/in/matheus-l%C3%A1zaro-244957b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Matheus Lázaro-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
 
